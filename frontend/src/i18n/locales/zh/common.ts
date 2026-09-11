@@ -216,7 +216,7 @@ export default {
 
   // Auth
   auth: {
-    welcomeBack: 'RSXKAPI:欢迎登录',
+    welcomeBack: 'RSXKAPI:欢迎您登录',
     signInToAccount: '登录您的账户以继续',
     signIn: '登录',
     signingIn: '登录中...',
